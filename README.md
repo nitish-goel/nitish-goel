@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nitish-Goel</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishgoel430&label=Profile%20views&color=0e75b6&style=flat" alt="nitishgoel430" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitish-goel&label=Profile%20views&color=0e75b6&style=flat" alt="nitish-goel" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitishgoel430" alt="nitishgoel430" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-goel" alt="nitish-goel" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishgoel430&show_icons=true&locale=en" alt="nitishgoel430" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitish-goel&show_icons=true&locale=en" alt="nitish-goel" /></p>
 
